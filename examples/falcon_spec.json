@@ -1,1 +1,9 @@
 
+{
+  "model_name": "tiiuae/falcon-7b",
+  "hidden_size": 4544,
+  "num_layers": 32,
+  "num_attention_heads": 71,
+  "num_key_value_heads": null,
+  "intermediate_size": null
+}
